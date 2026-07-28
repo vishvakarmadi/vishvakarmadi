@@ -1,112 +1,173 @@
-<h1 align="center">Hi there, I'm Aditya Vishvakarma 👋</h1>
-<h3 align="center">Laravel Backend Developer | PHP Developer | API Integration Specialist</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/aditya-vishvakarma/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:adityav2316672@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/_itz_adi_3011"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://mastodon.social/@AdityaVishvakarma"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Aditya+Vishvakarma+%F0%9F%91%8B;Laravel+Backend+Developer;PHP+%7C+REST+APIs+%7C+System+Design;Building+Scalable+Logistics+%26+CRM+Platforms" alt="Typing SVG" />
 
----
+<br/>
 
-### 🚀 About Me
+<img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Delhi%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Remote%20%2F%20Hybrid-success?style=for-the-badge&logo=vercel&logoColor=white" />
 
-Results-driven **Laravel Backend Developer** with **2.5+ years of experience** building scalable logistics, CRM, healthcare, and eCommerce applications. Skilled in REST API development, courier and payment gateway integrations, authentication systems, MySQL optimization, Redis caching, and scalable backend architecture. Strong grounding in MVC design, database architecture, and performance tuning — with a track record of measurable efficiency gains across production systems.
+<br/><br/>
+
+<a href="https://linkedin.com/in/aditya-vishvakarma/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:adityav2316672@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://vishvakarmaditya.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://instagram.com/_itz_adi_3011">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://mastodon.social/@AdityaVishvakarma">
+  <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat-square&logo=mastodon&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+I'm a **results-driven Laravel Backend Developer** with **2.5+ years of experience** designing and shipping scalable logistics, CRM, healthcare, and eCommerce platforms. I specialize in REST API development, courier and payment gateway integrations, authentication systems, MySQL optimization, and Redis caching — with a consistent track record of turning complex business requirements into fast, secure, production-grade backend systems.
+
+```php
+class AdityaVishvakarma extends Developer
+{
+    protected string $role = 'Laravel Backend Developer';
+    protected string $experience = '2.5+ years';
+    protected array $expertise = ['REST APIs', 'Payment Gateways', 'Courier Integrations', 'MySQL', 'Redis'];
+    protected string $currentFocus = 'Cloud-native, scalable backend architecture';
+
+    public function currentlyBuilding(): array
+    {
+        return ['Logistics platforms', 'Enterprise CRMs', 'Multi-courier & payment integrations'];
+    }
+
+    public function currentlyLearning(): array
+    {
+        return ['Laravel 12', 'Docker', 'AWS', 'Microservices', 'Kubernetes'];
+    }
+}
+```
 
 - 🔭 Currently building **scalable logistics platforms, enterprise CRM systems, and multi-courier / payment gateway integrations**
 - 🌱 Currently deepening my skills in **Laravel 12, Docker, AWS, DevOps, and cloud-native architecture**
 - 👯 Open to collaborating on **open-source Laravel projects, SaaS apps, and API-driven platforms**
 - 🤝 Looking for guidance in **microservices, distributed systems, Kubernetes, and CI/CD pipelines**
 - 💬 Ask me about **Laravel, PHP, REST APIs, MySQL, Redis, JWT Auth, Payment/Courier APIs, or Server & DNS management**
-- 📍 Based in Dwarka, Delhi, India | Remote / Hybrid / Full-Time
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
 
-**Database & Caching**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,mysql,redis,git,github,linux,nginx,postman,vercel,cloudflare&perline=8" />
 
-**Server, Tools & Deployment**
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+</div>
+
+<br/>
 
 | Category | Technologies |
 |---|---|
-| **Backend & Architecture** | REST APIs, JWT, OAuth, Queue Jobs, Webhooks, Cron Jobs, API Security, MVC, Clean Architecture |
-| **Courier & Payments** | Delhivery, XpressBees, BlueDart, Ekart, Shadowfax, Razorpay, Cashfree, ICICI Gateway |
-| **Domain & DNS** | A, AAAA, CNAME, MX, TXT, SPF, DKIM, DMARC, SSL Installation, SMTP |
+| 🧩 **Languages & Frameworks** | PHP 8.x, Laravel 10/11/12, Livewire, JavaScript, jQuery, HTML5, CSS3, Bootstrap 5 |
+| ⚙️ **Backend & Architecture** | REST APIs, JWT, OAuth, Queue Jobs, Webhooks, Cron Jobs, API Security, MVC, Clean Architecture |
+| 📦 **Courier & Payments** | Delhivery, XpressBees, BlueDart, Ekart, Shadowfax · Razorpay, Cashfree, ICICI Gateway |
+| 🗄️ **Database & Caching** | MySQL, Redis, Query Optimization, Database Indexing & Design |
+| ☁️ **Server & Deployment** | Linux, Apache, Nginx, VPS Management, Hostinger, cPanel, SSH, FTP, Git Deployment |
+| 🌐 **Domain & DNS** | A, AAAA, CNAME, MX, TXT, SPF, DKIM, DMARC, SSL Installation, SMTP |
+| 🧰 **Tools** | Git, GitHub, Composer, Postman, phpMyAdmin, Vercel, Netlify, Cloudflare |
 
----
+<br/>
 
-### 💼 Experience Snapshot
+## 💼 Professional Experience
 
-- **PHP Laravel Developer** — Aframax Logistics India Pvt Ltd *(Feb 2026 – Present)*
-- **Laravel Developer** — Harifly Technologies Pvt Ltd *(Aug 2025 – Feb 2026)*
-- **Laravel Developer** — Bhoomi TechZone Pvt Ltd *(Sep 2024 – Aug 2025)*
-- **Web Developer** — Kushel Digi Solutions *(Apr 2024 – Sep 2024)*
-- **PHP Intern** — TCYBILL Technology Pvt Ltd *(Feb 2024 – Apr 2024)*
+<table>
+<tr>
+<td width="30%"><b>PHP Laravel Developer</b><br/><sub>Aframax Logistics India Pvt Ltd</sub></td>
+<td width="20%"><sub>Feb 2026 – Present</sub></td>
+<td>Built a scalable logistics platform with automated AWB generation & tracking, improving operational efficiency by 30%. Integrated Delhivery, XpressBees, BlueDart, Shadowfax, Shopify & WooCommerce.</td>
+</tr>
+<tr>
+<td><b>Laravel Developer</b><br/><sub>Harifly Technologies Pvt Ltd</sub></td>
+<td><sub>Aug 2025 – Feb 2026</sub></td>
+<td>Built enterprise CRM modules with RBAC, integrated Razorpay/Cashfree/ICICI, and cut server load by 35% via Redis caching & query optimization.</td>
+</tr>
+<tr>
+<td><b>Laravel Developer</b><br/><sub>Bhoomi TechZone Pvt Ltd</sub></td>
+<td><sub>Sep 2024 – Aug 2025</sub></td>
+<td>Developed performance-critical REST APIs supporting 10K+ concurrent users; improved response time by 40% using Redis.</td>
+</tr>
+<tr>
+<td><b>Web Developer</b><br/><sub>Kushel Digi Solutions</sub></td>
+<td><sub>Apr 2024 – Sep 2024</sub></td>
+<td>Optimized application bottlenecks and shipped backend bug-fix deployments.</td>
+</tr>
+<tr>
+<td><b>PHP Intern</b><br/><sub>TCYBILL Technology Pvt Ltd</sub></td>
+<td><sub>Feb 2024 – Apr 2024</sub></td>
+<td>Assisted in backend development, custom PHP modules, and database query optimization.</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
 | Project | Stack | Description |
 |---|---|---|
-| **Hyloship Logistics Platform** | Laravel, MySQL | Logistics aggregator integrating multi-courier APIs for automated AWB & tracking |
-| **Harifly Sales CRM** | Laravel, CRM | Enterprise lead management system with sales pipeline tracking |
-| **Delhi Parcel Logistics** | Laravel, Logistics | Parcel booking, manifest generation, and tracking platform |
-| **DoctCare Healthcare** | Laravel, JWT | Secure healthcare platform with JWT auth and digital patient records |
-| **BlinkMe Online** | Laravel, Real-time | Dynamic service booking platform with real-time updates |
-| **iBooking India** | Laravel 11 | Online booking & reservation platform with a scalable scheduling engine |
-| **SKG Enterprise** | Laravel, React | E-commerce platform with product cataloging & secure payments |
-| **Ownershood** | Laravel, MySQL | Real estate platform with modern property management workflows |
+| 🚚 **Hyloship Logistics Platform** | Laravel, MySQL | Logistics aggregator integrating multi-courier APIs for automated AWB & tracking |
+| 📊 **Harifly Sales CRM** | Laravel, CRM | Enterprise lead management system with sales pipeline tracking |
+| 📦 **Delhi Parcel Logistics** | Laravel, Logistics | Parcel booking, manifest generation, and tracking platform |
+| 🏥 **DoctCare Healthcare** | Laravel, JWT | Secure healthcare platform with JWT auth and digital patient records |
+| ⚡ **BlinkMe Online** | Laravel, Real-time | Dynamic service booking platform with real-time updates |
+| 📅 **iBooking India** | Laravel 11 | Online booking & reservation platform with a scalable scheduling engine |
+| 🛒 **SKG Enterprise** | Laravel, React | E-commerce platform with product cataloging & secure payments |
+| 🏠 **Ownershood** | Laravel, MySQL | Real estate platform with modern property management workflows |
 
-*View all projects on my [GitHub profile](https://github.com/vishvakarmadi).*
+<div align="center"><i>View all projects on my <a href="https://github.com/vishvakarmadi">GitHub profile</a></i></div>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=vishvakarmadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=vishvakarmadi&theme=dark&hide_border=false" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vishvakarmadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=vishvakarmadi&theme=radical&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=vishvakarmadi&theme=radical&hide_border=true" height="165"/>
+</div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vishvakarmadi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+</div>
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vishvakarmadi&theme=radical&no-frame=true&row=1&column=6" />
+</div>
 
-### 📫 Let's Connect
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
-- 📧 **Email:** adityav2316672@gmail.com
-- 📱 **Phone:** +91 9517485106
-- 🔗 **LinkedIn:** [aditya-vishvakarma](https://linkedin.com/in/aditya-vishvakarma/)
-- 🌐 **Portfolio:** [vishvakarmaditya.vercel.app](https://vishvakarmaditya.vercel.app/)
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishvakarmadi&color=blue" alt="Profile views" />
-</p>
+## 📫 Let's Connect
+
+<div align="center">
+
+📧 **Email:** [adityav2316672@gmail.com](mailto:adityav2316672@gmail.com) &nbsp;|&nbsp;
+📱 **Phone:** +91 9517485106 &nbsp;|&nbsp;
+🔗 **LinkedIn:** [aditya-vishvakarma](https://linkedin.com/in/aditya-vishvakarma/) &nbsp;|&nbsp;
+🌐 **Portfolio:** [vishvakarmaditya.vercel.app](https://vishvakarmaditya.vercel.app/)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vishvakarmadi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+<br/>
+<sub>⭐ Thanks for stopping by — feel free to explore my repos and connect!</sub>
+
+</div>
