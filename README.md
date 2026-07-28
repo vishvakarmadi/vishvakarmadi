@@ -105,8 +105,8 @@ Results-driven **Laravel Backend Developer** with **2.5+ years of experience** b
 - 📧 **Email:** adityav2316672@gmail.com
 - 📱 **Phone:** +91 9517485106
 - 🔗 **LinkedIn:** [aditya-vishvakarma](https://linkedin.com/in/aditya-vishvakarma/)
-- 🌐 **Portfolio:** [https://vishvakarmaditya.vercel.app/]
+- 🌐 **Portfolio:** [vishvakarmaditya.vercel.app](https://vishvakarmaditya.vercel.app/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishvakarmadi&icon=0&color=0" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vishvakarmadi&color=blue" alt="Profile views" />
 </p>
