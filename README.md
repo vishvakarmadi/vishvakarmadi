@@ -93,14 +93,9 @@ class AdityaVishvakarma extends Developer
 <td>Built a scalable logistics platform with automated AWB generation & tracking, improving operational efficiency by 30%. Integrated Delhivery, XpressBees, BlueDart, Shadowfax, Shopify & WooCommerce.</td>
 </tr>
 <tr>
-<td><b>Laravel Developer</b><br/><sub>Harifly Technologies Pvt Ltd</sub></td>
-<td><sub>Aug 2025 – Feb 2026</sub></td>
-<td>Built enterprise CRM modules with RBAC, integrated Razorpay/Cashfree/ICICI, and cut server load by 35% via Redis caching & query optimization.</td>
-</tr>
-<tr>
 <td><b>Laravel Developer</b><br/><sub>Bhoomi TechZone Pvt Ltd</sub></td>
-<td><sub>Sep 2024 – Aug 2025</sub></td>
-<td>Developed performance-critical REST APIs supporting 10K+ concurrent users; improved response time by 40% using Redis.</td>
+<td><sub>Sep 2024 – Feb 2026</sub></td>
+<td>Developed performance-critical REST APIs supporting 10K+ concurrent users, built enterprise CRM/RBAC modules, and improved response times by 40% using Redis caching.</td>
 </tr>
 <tr>
 <td><b>Web Developer</b><br/><sub>Kushel Digi Solutions</sub></td>
