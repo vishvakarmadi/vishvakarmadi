@@ -1,4 +1,4 @@
-<div align="center , padding-left ="100px">
+<div align="left" , padding-left ="100px">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Aditya+Vishvakarma+%F0%9F%91%8B;Laravel+Backend+Developer;PHP+%7C+REST+APIs+%7C+System+Design;Building+Scalable+Logistics+%26+CRM+Platforms" alt="Typing SVG" />
 
